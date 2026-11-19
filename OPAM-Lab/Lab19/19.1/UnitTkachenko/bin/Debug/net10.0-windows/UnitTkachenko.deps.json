@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "UnitTkachenko/1.0.0": {
+        "runtime": {
+          "UnitTkachenko.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnitTkachenko/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

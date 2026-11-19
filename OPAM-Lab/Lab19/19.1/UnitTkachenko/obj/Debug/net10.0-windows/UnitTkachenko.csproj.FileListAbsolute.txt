@@ -1,0 +1,11 @@
+C:\Users\tkace\OneDrive\Desktop\Lab19shportko\19.1\Units\UnitTkachenko\bin\Debug\net10.0-windows\UnitTkachenko.deps.json
+C:\Users\tkace\OneDrive\Desktop\Lab19shportko\19.1\Units\UnitTkachenko\bin\Debug\net10.0-windows\UnitTkachenko.dll
+C:\Users\tkace\OneDrive\Desktop\Lab19shportko\19.1\Units\UnitTkachenko\bin\Debug\net10.0-windows\UnitTkachenko.pdb
+C:\Users\tkace\OneDrive\Desktop\Lab19shportko\19.1\Units\UnitTkachenko\obj\Debug\net10.0-windows\UnitTkachenko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkace\OneDrive\Desktop\Lab19shportko\19.1\Units\UnitTkachenko\obj\Debug\net10.0-windows\UnitTkachenko.AssemblyInfoInputs.cache
+C:\Users\tkace\OneDrive\Desktop\Lab19shportko\19.1\Units\UnitTkachenko\obj\Debug\net10.0-windows\UnitTkachenko.AssemblyInfo.cs
+C:\Users\tkace\OneDrive\Desktop\Lab19shportko\19.1\Units\UnitTkachenko\obj\Debug\net10.0-windows\UnitTkachenko.csproj.CoreCompileInputs.cache
+C:\Users\tkace\OneDrive\Desktop\Lab19shportko\19.1\Units\UnitTkachenko\obj\Debug\net10.0-windows\UnitTkachenko.dll
+C:\Users\tkace\OneDrive\Desktop\Lab19shportko\19.1\Units\UnitTkachenko\obj\Debug\net10.0-windows\refint\UnitTkachenko.dll
+C:\Users\tkace\OneDrive\Desktop\Lab19shportko\19.1\Units\UnitTkachenko\obj\Debug\net10.0-windows\UnitTkachenko.pdb
+C:\Users\tkace\OneDrive\Desktop\Lab19shportko\19.1\Units\UnitTkachenko\obj\Debug\net10.0-windows\ref\UnitTkachenko.dll
