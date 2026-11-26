@@ -1,0 +1,4 @@
+C:\Users\tkace\OneDrive\Desktop\Матеріали коледжу\ОПАМ\Lab22\obj\Debug\net10.0\Lab22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkace\OneDrive\Desktop\Матеріали коледжу\ОПАМ\Lab22\obj\Debug\net10.0\Lab22.AssemblyInfoInputs.cache
+C:\Users\tkace\OneDrive\Desktop\Матеріали коледжу\ОПАМ\Lab22\obj\Debug\net10.0\Lab22.AssemblyInfo.cs
+C:\Users\tkace\OneDrive\Desktop\Матеріали коледжу\ОПАМ\Lab22\obj\Debug\net10.0\Lab22.csproj.CoreCompileInputs.cache
